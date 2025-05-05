@@ -1,1 +1,14 @@
-"# Hotel-booking-frontend" 
+# Features
+📝 Online Room Booking
+
+📅 Check Room Availability
+
+👤 Customer Registration & Management
+
+✅ Admin Dashboard
+
+🛏️ Check-In and Check-Out Management
+
+📄 Booking History & Reports
+
+🔐 Login System for Admin and Users
