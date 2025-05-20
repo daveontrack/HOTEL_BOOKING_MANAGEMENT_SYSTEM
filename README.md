@@ -1,5 +1,4 @@
 # Features
-📝 Online Room Booking
 
 📅 Check Room Availability
 
